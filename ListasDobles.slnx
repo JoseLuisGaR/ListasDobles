@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ListasDobles.Core/ListasDobles.Core.csproj" />
+  <Project Path="ListasDobles.Consola/ListasDobles.Consola.csproj" />
+  <Project Path="ListasDobles.WinForms/ListasDobles.WinForms.csproj" />
+</Solution>
